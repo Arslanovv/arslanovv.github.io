@@ -249,7 +249,8 @@ section a {
   line-height: 40px;
   letter-spacing: 0.95px;
   margin-top: 2%;
-  margin-bottom: 7%; }
+  margin-bottom: 7%;
+  align-self: center; }
 
 .secition-third__privacy-policy {
   display: -webkit-box;
